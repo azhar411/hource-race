@@ -4,7 +4,7 @@ This application build in node with typescript,MongoDb and Docker. The perpose o
 ## Docker configuration
 Run this application we need to follow the steps.
 - Download this source code in your working directory
-- We have configure the docker file. In root directory run the docker-compose up --build
+- I have configure the docker file. In root directory run the this command docker-compose up --build
 - Run the api in postman or api tool.
     - Welcome page(GET Request):
         - http://localhost:3000/api/race/ 
